@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cryptlib"
-version = "0.0.2"
+version = "0.0.1"
 description = "Library for ECC and CRYSTALS-Kyber KEM"
 authors = [{name = "Rysker"}]
 license = "MIT"
@@ -15,4 +15,4 @@ dependencies = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["cryptlib"]
+where = ["."]
