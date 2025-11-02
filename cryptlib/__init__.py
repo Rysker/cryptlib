@@ -1,5 +1,5 @@
 """
-Cryptlib
+cryptlib
 
 Library for ECC (ECDSA) and CRYSTALS-Kyber KEM.
 Supports:

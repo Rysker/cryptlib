@@ -15,6 +15,6 @@ It supports key generation, signing/verification, and key encapsulation mechanis
 ### Option 1: Install from Git (editable)
 
 ```bash
-git clone https://github.com/Rysker/Cryptlib.git
-cd Cryptlib
+git clone https://github.com/Rysker/cryptlib.git
+cd cryptlib
 pip install -e .

@@ -1,5 +1,5 @@
 """
-Factory for key pair generators in Cryptlib.
+Factory for key pair generators in cryptlib.
 
 Provides a unified interface similar to Java KeyPairGenerator.
 """
